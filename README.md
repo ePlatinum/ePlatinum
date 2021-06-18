@@ -1,4 +1,5 @@
-### Hi there 👋
+ePlatinum is a scalable ERC20, the use case of automated sales tax is currently in beta stages. We will be annoucing huge updates in the following week of our roadmap for the next year!
+
 
 <!--
 **ePlatinum/ePlatinum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
